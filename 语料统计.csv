@@ -1,0 +1,51 @@
+﻿id,author,title,year,genre,n_chars,n_tokens,type_count,source,license
+lbc_01,李白,赠韦侍御黄裳二首 二,,五言八句（律诗）,40,26,26,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_02,李白,杂曲歌辞 千里思,,五言八句（律诗）,40,31,30,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_03,李白,送郄昂谪巴中,,五言八句（律诗）,40,31,31,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_04,李白,送殷淑三首 二,,五言八句（律诗）,40,27,27,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_05,李白,杭州送裴大泽赴庐州长史,,五言八句（律诗）,40,33,33,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_06,李白,古风 五十八,,五言八句（律诗）,40,30,30,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_07,李白,姑孰十咏 丹阳湖,,五言八句（律诗）,40,31,31,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_08,李白,古风 三十八,,五言八句（律诗）,40,36,36,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_09,李白,至鸭栏驿上白马矶赠裴侍御,,五言八句（律诗）,40,33,32,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_10,李白,姑孰十咏 谢公宅,,五言八句（律诗）,40,31,31,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_11,李白,题东谿公幽居,,七言八句（律诗）,56,44,44,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_12,李白,江夏送友人,,五言八句（律诗）,40,33,31,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_13,李白,杂曲歌辞 宫中行乐词 八,,五言八句（律诗）,40,34,34,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_14,李白,同族姪评事黯游昌禅师山池二首 二,,五言八句（律诗）,40,35,35,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_15,李白,送崔十二游天竺寺,,五言八句（律诗）,40,28,28,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_16,李白,琴曲歌辞  秋思二首 一,,五言八句（律诗）,40,35,35,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_17,李白,相和歌辞 凤台曲,,五言八句（律诗）,40,27,27,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_18,李白,古风 十七,,五言八句（律诗）,40,25,23,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_19,李白,赠任城卢主簿,,五言八句（律诗）,40,30,30,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_20,李白,赠郭将军,,七言八句（律诗）,56,39,38,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_21,李白,送别,,五言八句（律诗）,40,28,28,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_22,李白,宴陶家亭子,,五言八句（律诗）,40,35,35,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_23,李白,相和歌辞 湖边采莲妇,,五言八句（律诗）,40,28,27,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_24,李白,张相公出镇荆州寻除太子詹事余时流夜郎行至江夏与张公去千里公因太府丞王昔使车寄罗衣二事及五月五日赠余诗余答以此诗,,五言八句（律诗）,40,27,26,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+lbc_25,李白,玉真仙人词,,五言八句（律诗）,40,29,29,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_01,杜甫,题张氏隐居二首 一,,七言八句（律诗）,56,40,38,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_02,杜甫,折槛行,,七言八句（律诗）,56,38,37,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_03,杜甫,遣兴五首 二,,五言八句（律诗）,40,22,22,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_04,杜甫,秋风二首 二,,七言八句（律诗）,56,42,41,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_05,杜甫,刘九法曹郑瑕丘石门宴集,,五言八句（律诗）,40,32,32,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_06,杜甫,戏赠友二首 一,,五言八句（律诗）,40,29,28,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_07,杜甫,横吹曲辞 前出塞九首 一,,五言八句（律诗）,40,31,29,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_08,杜甫,立秋后题,,五言八句（律诗）,40,28,28,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_09,杜甫,引水,,七言八句（律诗）,56,46,43,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_10,杜甫,海棕行,,七言八句（律诗）,55,41,38,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_11,杜甫,登兖州城楼,,五言八句（律诗）,40,30,30,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_12,杜甫,戏赠阌乡秦少公短歌,,七言八句（律诗）,56,35,34,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_13,杜甫,遣兴五首 一,,五言八句（律诗）,40,30,28,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_14,杜甫,题张氏隐居二首 二,,五言八句（律诗）,40,29,27,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_15,杜甫,望岳,,五言八句（律诗）,40,29,29,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_16,杜甫,杂歌谣辞 大麦行,,七言八句（律诗）,56,44,42,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_17,杜甫,自平,,七言八句（律诗）,56,42,42,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_18,杜甫,横吹曲辞 前出塞九首 七,,五言八句（律诗）,40,26,26,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_19,杜甫,遣兴五首 一,,五言八句（律诗）,39,32,31,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_20,杜甫,天宝初南曹小司寇舅于我太夫人堂下累土为山一匮盈尺以代彼朽木承诸焚香瓷瓯瓯甚安矣旁植慈竹盖兹数峰嵚岑婵娟宛有尘外数致乃不知兴之所至而作是诗,,五言八句（律诗）,40,28,28,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_21,杜甫,北风,,五言八句（律诗）,40,29,29,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_22,杜甫,天边行,,七言八句（律诗）,56,41,40,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_23,杜甫,戏简郑广文虔兼呈苏司业源明,,五言八句（律诗）,40,28,26,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_24,杜甫,青丝,,七言八句（律诗）,56,41,40,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
+dfc_25,杜甫,横吹曲辞 前出塞九首 三,,五言八句（律诗）,40,33,32,《全唐诗》（chinese-poetry 开源数据集，公有领域，经繁简转换）,public-domain
