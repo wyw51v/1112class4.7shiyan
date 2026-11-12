@@ -6,24 +6,6 @@
 
 ---
 
-## 一、提交物导航（按任务 4.7 要求逐项对应）
-
-| 任务要求 | 文件 | 说明 |
-|---|---|---|
-| **任务一**：同源语料 10–50 篇 | [`corpus/corpus.jsonl`](corpus/corpus.jsonl) | 50 篇，李白 25 / 杜甫 25 |
-| **任务一**：分词与停用词规则 | [`01_语料说明卡.md`](deliverables/01_语料说明卡.md) | 来源、许可、年代、收录标准、分词器版本、停用词表来源 |
-| **任务一**：TF-IDF / LDA 提炼主题 | [`outputs/TFIDF_全局关键词.csv`](outputs/TFIDF_全局关键词.csv) · [`outputs/LDA_主题词.csv`](outputs/LDA_主题词.csv) | 两法都做，互为印证 |
-| **任务一**：记录 k 与停用词设置、比较稳定性 | [`02_分析设置与LDA记录.md`](deliverables/02_分析设置与LDA记录.md) · [`outputs/LDA_k值与稳定性.csv`](outputs/LDA_k值与稳定性.csv) | k=3–6 × 双随机种子 |
-| **任务一**：回原文找例句并判断 | [`outputs/原文抽查表.csv`](outputs/原文抽查表.csv) | 任务一 18 条 + 任务二 22 条，共 40 条 |
-| **任务二**：两作者各 ≥10 篇 | 同上语料 | 各 25 篇，体裁、篇幅已对齐 |
-| **任务二**：`TfidfVectorizer` 高权重词 | [`outputs/作者关键词表.csv`](outputs/作者关键词表.csv) · [`outputs/作者倾向词对照.csv`](outputs/作者倾向词对照.csv) | 后者按加性平滑后的 log2 比值算倾向 |
-| **任务二**：条形图 / 词云 | [`outputs/图_作者关键词条形图.png`](outputs/图_作者关键词条形图.png) · [`outputs/图_作者词云.png`](outputs/图_作者词云.png) | 见下方 |
-| **任务二**：约 150 字解释 | [`03_150字解释_草稿.md`](deliverables/03_150字解释_草稿.md) | 实测 149 汉字，分「能支持 / 不能证明」两半 |
-| **总报告** | [`deliverables/00_交付报告.md`](deliverables/00_交付报告.md) | 汇总以上全部，数字由脚本从 CSV 自动生成 |
-| **交前自查** | [`deliverables/04_提交清单.md`](deliverables/04_提交清单.md) | 按评价量规四维度对表 + 常见扣分点 |
-
-## 二、结果速览
-
 | | 高权重字（TF-IDF 均值 Top） |
 |---|---|
 | 李白 | 天 风 流 花 人 吹 月 水 玉 山 送 霜 绿 游 秋 春 |
